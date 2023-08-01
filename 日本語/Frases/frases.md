@@ -63,3 +63,10 @@ or
 <br> 寿司が食べたい!*
 <br>
 <br> *I want to eat sushi!*
+<br>
+<br>
+9) *疲れた
+or
+<br>疲れたよ*
+<br>
+<br> *I´m tired!*
