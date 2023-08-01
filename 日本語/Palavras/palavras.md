@@ -10,4 +10,6 @@
     <br><br>
 　　*Dick*
 
-
+3) *れた*
+   <br><br>
+   *someone's physical condition*
